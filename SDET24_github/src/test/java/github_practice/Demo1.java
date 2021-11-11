@@ -7,6 +7,8 @@ public class Demo1 {
 		public void demo1()
 		{
 			System.out.println("Hi this is user2 , its my first commit");
+			
+			System.out.println("hello.......");
 		}
 	}
 
